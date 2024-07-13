@@ -1,4 +1,4 @@
-// MulTextTyper.js
+// npm install react-simple-typewriter 
 import React, { useState } from 'react';
 import { Typewriter } from 'react-simple-typewriter';
 
