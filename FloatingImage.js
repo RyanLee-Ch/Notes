@@ -15,7 +15,7 @@ const ResponsiveFab = styled(Fab)(({ theme }) => ({
     minHeight: 'auto',  // 设置最小高度为自动
     minWidth: 'auto',  // 设置最小宽度为自动
     borderRadius: imageBorderRadius,  // 设置圆角度，为50%时呈圆形
-    boxShadow: 'none',  // 移除阴影
+    boxShadow: 'none',  // 移除阴影，灰色阴影可以设置为'0px 4px 10px rgba(0, 0, 0, 0.3)'
     backgroundColor: 'transparent',  // 设置背景色为透明
     [theme.breakpoints.down('xs')]: {  // 分辨率 ≥ 0px 时响应式修改尺寸
         width: imageWidth * 0.2,
