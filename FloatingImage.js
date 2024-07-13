@@ -48,11 +48,9 @@ const ResponsiveImg = styled('img')(({ theme }) => ({
 
 const FloatingImage = () => {
     return (
-        <div style={{ height: '100vh', position: 'relative' }}>
-            <ResponsiveFab aria-label="add">
-                <ResponsiveImg src="/images/programmer.png" alt="programmer" />
-            </ResponsiveFab>
-        </div>
+        <ResponsiveFab aria-label="add">
+            <ResponsiveImg src="/images/programmer.png" alt="programmer" />
+        </ResponsiveFab>
     );
 };
 
