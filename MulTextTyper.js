@@ -2,6 +2,8 @@
 import React, { useState } from 'react';
 import { Typewriter } from 'react-simple-typewriter';
 
+// 需要添加行数时，仿造line1increasing去修改line2increasing、line3、4等等，修改对应的true与false
+
 const MulTextTyper = () => {
     // 定义第1、2行文本内容
     const line1text = ['Hi, Welcome!'];
