@@ -27,7 +27,7 @@ const ResponsiveFab = styled(Fab)(({ theme }) => ({
     borderRadius: imageBorderRadius,  // 设置圆角度，为1%
     boxShadow: '0px 4px 10px rgba(0, 0, 0, 0.3)',  // 设置阴影
     overflow: 'hidden',  // 防止内容溢出
-    pointerEvents: 'none',  // 取消点击功能
+    // pointerEvents: 'none',  // 取消点击功能
     [theme.breakpoints.down('xs')]: {  // 分辨率 ≤ xs 时响应式修改尺寸
         width: imageWidth * 0.2,
         height: imageHeight * 0.2,
