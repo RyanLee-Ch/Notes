@@ -70,7 +70,7 @@ const Content = styled('div')({
     zIndex: 1,
 });
 
-const LnlaidFrame = () => {
+const InlaidFrame = () => {
     return (
         // 作为ResponsiveFab的父级容器，应用grid布局
         <CenterContainer>
@@ -90,4 +90,4 @@ const LnlaidFrame = () => {
     );
 };
 
-export default LnlaidFrame;
+export default InlaidFrame;
