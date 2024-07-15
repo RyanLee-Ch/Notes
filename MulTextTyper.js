@@ -1,23 +1,32 @@
-// npm install react-simple-typewriter 
+// MulTextTyper.js
 import React, { useState } from 'react';
 import { Typewriter } from 'react-simple-typewriter';
-
-// 需要添加行数时，仿造line1increasing去修改line2increasing、line3、4等等，修改对应的true与false
 
 const MulTextTyper = () => {
     // 定义第1、2行文本内容
     const line1text = ['Hi, Welcome!'];
-    const line2text = ["I'm Ryan a"];
+    const line2text = ["I'm Ryan, a："];
+    const line3text = [
+        "Mechanical Engineer",
+        "After-sales engineer",
+        "Electrical engineer",
+        "Web development engineer",
+    ]
 
     // 获取第1、2行文本长度
     const textLengths = {
         line1TextLength: line1text[0].length,
-        line2TextLength: line2text[0].length
+        line2TextLength: line2text[0].length,
+        line3TextLength: line3text[0].length,
     };
 
     // 设定第1、2行打字顺序
     const [line1Typing, setLine1Typing] = useState(true);
+    const [line1TypingCursor, setLine1TypingCursor] = useState(true);
     const [line2Typing, setLine2Typing] = useState(false);
+    const [line2TypingCursor, setLine2TypingCursor] = useState(false);
+    const [line3Typing, setLine3Typing] = useState(false);
+    const [line3TypingCursor, setLine3TypingCursor] = useState(false);
 
     // 监听第1、2行打字量，由line1increasing反馈
     const [line1QuantityOfTyping, setLine1QuantityOfTyping] = useState(0);
@@ -32,8 +41,10 @@ const MulTextTyper = () => {
         if (tempCount1 === textLengths.line1TextLength) {
             // 设置1.5秒换行打字延迟
             setTimeout(() => {
-                setLine1Typing(false);  //  第一行光标隐藏
+                setLine1Typing(false);  //  第一行停止打印
+                setLine1TypingCursor(false);  // 第一行光标停止闪烁
                 setLine2Typing(true);  // 第二行光标显示
+                setLine2TypingCursor(true);  // 第二行光标停止闪烁
             }, 1500)
         }
     };
@@ -42,40 +53,46 @@ const MulTextTyper = () => {
     const line2increasing = (char) => {
         let tempCount2 = line2QuantityOfTyping + 1
         setLine2QuantityOfTyping(tempCount2);
+        if (tempCount2 === textLengths.line2TextLength) {
+            setTimeout(() => {
+                setLine2TypingCursor(false);
+                setLine3Typing(true);
+                setLine3TypingCursor(true);
+            },1500)
+        }
     };
 
     // 定义全局文本样式
     const styles = {
         container: {
-            fontSize: '24px',  // 字体大小
+            fontSize: '36px',  // 字体大小
             fontFamily: 'monospace',  // 字体
             display: 'flex',  // 启用flex布局
             height: '100vh',  // 设置flex布局范围为垂直方向全屏
             flexDirection: 'column',  // 定义flex布局以垂直方向为基准
-            alignItems: 'center',  // 应用flex布局，设置内部标签在水平方向居中
-            justifyContent: 'center',  // 应用flex布局，设置内部标签在垂直方向居中
+            // alignItems: 'center',  // 应用flex布局，设置内部标签在水平方向居中
+            // justifyContent: 'center',  // 应用flex布局，设置内部标签在垂直方向居中
+            paddingLeft: '8%',  // 设置容器在水平方向的位置
+            paddingTop: '20%',  // 设置容器在垂直方向的位置
         },
         // 第n行字体配置
         line1Styles: {
-            fontSize: '24px',
+            fontSize: '36px',
             color: '#000000',  // 字体颜色
             margin: '-10px',  // 全局边距
-            // marginTop: '-10px', // 顶边距
-            // marginBottom: '-10px'  // 底边距
-            // textAlign: 'left'  // 居左
-            // textAlign: 'left'  // 居右
-            // textAlign: 'center'  // 居中
+            textTransform: 'none',
         },
         line2Styles: {
-            fontSize: '24px',
+            fontSize: '36px',
             color: '#000000',
             margin: '-10px',
-            // marginTop: '-10px',
-            // marginBottom: '-10px'
-            // textAlign: 'left'  // 居左
-            // textAlign: 'left'  // 居右
-            // textAlign: 'center'  // 居中
-
+            textTransform: 'none',
+        },
+        line3Styles: {
+            fontSize: '36px',
+            color: '#000000',
+            margin: '-10px',
+            textTransform: 'none',
         }
     };
 
@@ -85,7 +102,7 @@ const MulTextTyper = () => {
                 <Typewriter
                     words={line1text}  // 文本内容
                     loop={1}  // 循环次数
-                    cursor={line1Typing}  // 光标显示状态
+                    cursor={line1TypingCursor}  // 光标显示状态
                     cursorStyle='|'  // 光标样式
                     typeSpeed={100}  // 打字速度
                     deleteSpeed={50}  // 删除速度
@@ -99,13 +116,24 @@ const MulTextTyper = () => {
                     <Typewriter
                         words={line2text}
                         loop={1}
-                        cursor={line2Typing}
+                        cursor={line2TypingCursor}
                         cursorStyle='|'
-                        typeSpeed={100}
+                        typeSpeed={60}
                         deleteSpeed={50}
                         delaySpeed={1000000}
                         onType={line2increasing}
                     />
+                    {line3Typing && (
+                        <Typewriter
+                            words={line3text}
+                            loop
+                            cursor={line3TypingCursor}
+                            cursorStyle='|'
+                            typeSpeed={65}
+                            deleteSpeed={24}
+                            delaySpeed={1000}
+                        />
+                    )}
                 </div>
             )}
         </div>
