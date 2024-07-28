@@ -31,10 +31,21 @@ void initializeDisplay() {  // 定义显示器初始化函数
   display.setTextSize(1);  // 设置文本大小
 }
 void executeDisplay(String content) {  // 定义执行显示函数
+  // ----这里是默认显示左上角----
+  // display.clearDisplay();  // 清空显示屏缓冲区
+  // display.setTextColor(SSD1306_WHITE);  // 设置文本颜色为白色
+  // display.setTextSize(1);  // 设置文本大小
+  // display.setCursor(0, 0);  // 设置文本位置
+  // display.println(content);  // 显示文本
+  // display.display();  // 显示缓冲区内容
+  // ----这里是默认显示正中央----
   display.clearDisplay();  // 清空显示屏缓冲区
-  display.setTextColor(SSD1306_WHITE);  // 设置文本颜色为白色
-  display.setTextSize(1);  // 设置文本大小
-  display.setCursor(0, 0);  // 设置文本位置
+  int16_t x1, y1;
+  uint16_t w, h;
+  display.getTextBounds(content, 0, 0, &x1, &y1, &w, &h);  // 获取文本边界
+  int16_t x = (SCREEN_WIDTH - w) / 2;  // 计算文本起始X位置
+  int16_t y = (SCREEN_HEIGHT - h) / 2;  // 计算文本起始Y位置
+  display.setCursor(x, y);  // 设置文本位置
   display.println(content);  // 显示文本
   display.display();  // 显示缓冲区内容
 }
