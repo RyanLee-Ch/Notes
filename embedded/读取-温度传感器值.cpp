@@ -7,14 +7,17 @@ OneWire oneWire(ONE_WIRE_BUS);  // 标志传感器为单总线
 DallasTemperature sensors(&oneWire);  // 标志传感器为单总线通信
 
 void setup() {
-  Serial.begin(115200);  // 启动115200串行通信，用于IDE监测
-  sensors.begin();  // 启用通信
+  initializeTemp();  // 执行温感初始化
 }
 
 void loop() {
   float currentTemperature = readTemp();  // 调用读温感函数，存值
 }
 
+void initializeTemp() {
+  Serial.begin(115200);  // 启动115200串行通信，用于IDE监测
+  sensors.begin();  // 启用通信
+}
 void readTemp() {
   delay(1000);  // 每秒读取一次
   sensors.requestTemperatures();  // 请求所有传感器测量温度
