@@ -1,12 +1,9 @@
 #include <Wire.h>  // 导入IIC通信库
 #include <Adafruit_GFX.h>  // 导入绘图库
 #include <Adafruit_SSD1306.h>  // 导入SSD1306绘图库，SSD1306具有泛用性
-
 #define SCREEN_WIDTH 128  // 定义屏幕的宽度
 #define SCREEN_HEIGHT 64  // 定义屏幕的高度
-
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);  // 声明一个Adafruit_SSD1306对象
-
 #define OLED_SDA 47  // 自定义I2C.SDA引脚为 47口 
 #define OLED_SCL 48  // 自定义I2C.SDA引脚为 47口 
 
@@ -28,7 +25,7 @@ void initializeDisplay() {  // 定义显示器初始化函数
   }
   display.clearDisplay();  // 清空显示屏缓冲区
   display.setTextColor(SSD1306_WHITE);  // 设置文本颜色为白色
-  display.setTextSize(1);  // 设置文本大小
+  display.setTextSize(2);  // 设置文本大小
 }
 void executeDisplay(String content) {  // 定义执行显示函数
   // ----这里是默认显示左上角----
