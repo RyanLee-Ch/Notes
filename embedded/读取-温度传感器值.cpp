@@ -14,11 +14,12 @@ void loop() {
   float currentTemperature = readTemp();  // 调用读温感函数，存值
 }
 
-void initializeTemp() {
+// 温感函数
+void initializeTemp() {  // 温感初始化
   Serial.begin(115200);  // 启动115200串行通信，用于IDE监测
   sensors.begin();  // 启用通信
 }
-void readTemp() {
+void readTemp() {  // 温感读取
   delay(1000);  // 每秒读取一次
   sensors.requestTemperatures();  // 请求所有传感器测量温度
   Serial.println("Temperature: " + String(sensors.getTempCByIndex(0)) + " *C");  // 将第0个温感的值打印至115200监测口
