@@ -15,7 +15,7 @@ void setup() {
 }
 
 void loop() {
-  executeDisplay("Hello, World");  // 执行显示显示内容
+  executeDisplay(String("Hello, World"));  // 执行显示显示内容
 }
 
 // 显示器函数
