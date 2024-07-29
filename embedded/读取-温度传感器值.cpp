@@ -1,10 +1,12 @@
 #include <OneWire.h>  // 引入单总线传感器通信库
 #include <DallasTemperature.h>  // 引入Dallas传感器库
 
+// 读取温感值部分
 #define ONE_WIRE_BUS 5  // 定义单总线传感器接入口为 5口
-
 OneWire oneWire(ONE_WIRE_BUS);  // 标志传感器为单总线
 DallasTemperature sensors(&oneWire);  // 标志传感器为单总线通信
+// -------------
+
 
 void setup() {
   initializeTemp();  // 执行温感初始化
