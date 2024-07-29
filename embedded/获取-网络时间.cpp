@@ -2,10 +2,12 @@
 #include <WiFiUdp.h>  // 导入wifi的udp通信库
 #include <NTPClient.h>  // 连接NTP服务器，获取时间
 
+// 获取网络时间部分
 const char *ssid     = "Celitron";  // Wi-Fi名
 const char *password = "Celitron2022";  // Wi-Fi密码
 WiFiUDP ntpUDP;  // 配置Wifi与NTP服务器UDP通信
 NTPClient timeClient(ntpUDP, "pool.ntp.org", 8*3600, 60000); // 连接UTC+8（3600秒）时区，每分钟更新一次
+// ---------------
 
 void setup() {
   initializeTime();  // 初始化时间
