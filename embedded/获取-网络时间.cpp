@@ -1,11 +1,11 @@
-#include <WiFi.h>
-#include <WiFiUdp.h>
-#include <NTPClient.h>
+#include <WiFi.h>  // 导入wifi库
+#include <WiFiUdp.h>  // 导入wifi的udp通信库
+#include <NTPClient.h>  // 连接NTP服务器，获取时间
 
 const char *ssid     = "Celitron";  // Wi-Fi名
 const char *password = "Celitron2022";  // Wi-Fi密码
-WiFiUDP ntpUDP;  // NTP客户端设置
-NTPClient timeClient(ntpUDP, "pool.ntp.org", 8*3600, 60000); // 时区为UTC+1（3600秒），每分钟更新一次
+WiFiUDP ntpUDP;  // 配置Wifi与NTP服务器UDP通信
+NTPClient timeClient(ntpUDP, "pool.ntp.org", 8*3600, 60000); // 连接UTC+8（3600秒）时区，每分钟更新一次
 
 void setup() {
   initializeTime();  // 初始化时间
@@ -18,16 +18,16 @@ void loop() {
 
 // 时间函数：
 void initializeTime() {  // 初始化时间
-  Serial.begin(115200);
+  Serial.begin(115200);  // 启用监测口
   WiFi.begin(ssid, password);  // 连接到Wi-Fi网络
-  while (WiFi.status() != WL_CONNECTED) {
-    delay(500);
-    Serial.print(".");
+  while (WiFi.status() != WL_CONNECTED) {  // 等待wifi连接
+    delay(500);  // 0.5秒检测一次是否成功连接
+    Serial.print(".");  // 打印，尝试连接
   }
   Serial.println("");
-  Serial.println("WiFi connected.");
-  Serial.println("IP address: ");
-  Serial.println(WiFi.localIP());
+  Serial.println("WiFi connected.");  // 打印Wi-Fi连接成功信息
+  Serial.println("IP address: ");  // 打印"IP address:"字符串
+  Serial.println(WiFi.localIP());  // 打印ESP32的IP地址
   timeClient.begin();  // // 初始化NTP客户端
 }
 void getTime() {  // 获取时间
