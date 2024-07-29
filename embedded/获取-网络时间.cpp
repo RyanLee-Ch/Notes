@@ -12,7 +12,7 @@ void setup() {
 }
 
 void loop() {
-  getTime();  // 获取时间
+  String curTime = getTime();  // 获取时间
 }
 
 
@@ -32,7 +32,9 @@ void initializeTime() {  // 初始化时间
 }
 void getTime() {  // 获取时间
   timeClient.update();  // 更新NTP客户端
-  Serial.print("Current time: ");  // 获取当前时间并打印到串行监视器
-  Serial.println(timeClient.getFormattedTime());
+  String formattedTime = timeClient.getFormattedTime();  // 获取格式化的时间字符串
+  Serial.print("Current time: ");  // 打印当前时间到串行监视器
+  Serial.println(formattedTime);
+  return formattedTime;  // 返回格式化的时间字符串
   delay(1000); // 每秒获取一次时间
 }
