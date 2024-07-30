@@ -14,14 +14,11 @@ void loop() {
 void connWifi() {
   Serial.begin(115200);
   delay(10);
-
   Serial.println();
   Serial.println();
   Serial.print("Connecting to ");
   Serial.println(ssid);
-
   WiFi.begin(ssid, password);
-
   while (WiFi.status() != WL_CONNECTED) {
     delay(1000);
     Serial.print(".");
