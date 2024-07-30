@@ -8,9 +8,9 @@ void setup() {
 }
 
 void loop() {
-  // nothing to do
 }
 
+// wifi函数
 void connWifi() {
   Serial.begin(115200);
   delay(10);
@@ -26,7 +26,6 @@ void connWifi() {
     delay(1000);
     Serial.print(".");
   }
-
   Serial.println("");
   Serial.println("WiFi connected.");
   Serial.print("IP address: ");
