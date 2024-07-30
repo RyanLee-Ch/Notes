@@ -1,7 +1,7 @@
 #include <WiFi.h>  // 导入wifi库
 
-const char* ssid = "Celitron";  // wifi名称
-const char* password = "Celitron2022";  // wifi密码
+const char* ssid = "小宝贝";  // wifi名称
+const char* password = "lyj3112424";  // wifi密码
 
 void setup() {
   connWifi();
