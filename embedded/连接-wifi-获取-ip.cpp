@@ -12,7 +12,7 @@ void loop() {
 
 // wifi函数
 void connWifi() {
-  Serial.begin(115200);
+  Serial.begin(115200);  // 连接检测器，可以在检测器中查看ip，然后通过http://ip地址访问，配合web服务应用
   delay(10);
   Serial.println();
   Serial.println();
