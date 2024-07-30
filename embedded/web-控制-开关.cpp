@@ -1,3 +1,4 @@
+// 注意，通过web控制板子输出时，逻辑是反的，如果web控制输出HIGH，但实际是0，如果控制输出LOW，实际是1，下面程序是已经纠正了的
 #include <WebServer.h>
 
 const char* GPIO1_ON_PATH = "/gpio1/on";  // 定义 路由1 , 该路由被访问后，经server.on触发修改 1端 为高电平状态
