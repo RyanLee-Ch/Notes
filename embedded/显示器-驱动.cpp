@@ -6,6 +6,8 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);  // 声明一个Adafruit_SSD1306对象
 #define OLED_SDA 47  // 自定义I2C.SDA引脚为 47口 
 #define OLED_SCL 48  // 自定义I2C.SDA引脚为 47口 
+unsigned long previousMillis = 0;  // 记录上次显示更新的时间
+const long interval = 100;  // 显示更新间隔时间（毫秒）
 
 void setup() {
   initializeDisplay();  // 显示器初始化
@@ -14,6 +16,7 @@ void setup() {
 void loop() {
   executeDisplay(String("Hello, World"));  // 执行显示显示内容
 }
+
 
 // 显示器函数
 void initializeDisplay() {  // 定义显示器初始化函数
@@ -26,6 +29,13 @@ void initializeDisplay() {  // 定义显示器初始化函数
   display.clearDisplay();  // 清空显示屏缓冲区
   display.setTextColor(SSD1306_WHITE);  // 设置文本颜色为白色
   display.setTextSize(2);  // 设置文本大小
+}
+void updateDisplay() {  // 定义更新显示函数
+  unsigned long currentMillis = millis();
+  if (currentMillis - previousMillis >= interval) {  // 检查是否达到更新间隔时间
+    previousMillis = currentMillis;  // 保存当前时间
+    executeDisplay(String(currentAngle));  // 更新显示内容
+  }
 }
 void executeDisplay(String content) {  // 定义执行显示函数
   // ----这里是默认显示左上角----
