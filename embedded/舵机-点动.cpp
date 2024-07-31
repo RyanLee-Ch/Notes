@@ -1,3 +1,5 @@
+// 注意，按钮不能存在防抖动操作
+
 #include <ESP32Servo.h>
 
 Servo myservo;  // 声明舵机应用
