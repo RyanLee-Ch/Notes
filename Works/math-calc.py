@@ -1,3 +1,7 @@
+# This code was created by Ryan Lee (李英杰) and is for work use only.
+# For usage requests, please email: ryanlee990929@gmail.com
+# Or number: +86 18277135262
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
