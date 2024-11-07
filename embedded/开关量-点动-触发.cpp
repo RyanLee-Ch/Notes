@@ -1,11 +1,17 @@
 void setup() {
-  initializeButton(1, 2);  // 定义初始化情况：1入 2出
+  setUpButton();
 }
 void loop() {
-  controlRelay(1, 2);  // 调用触发函数，1入, 2点动执行
+  loopButton();
 }
 
 // 点动函数
+void setUpButton() {
+  initializeButton(1, 2);  // 定义初始化情况：1入 2出
+}
+void loopButton() {
+  controlRelay(1, 2);  // 调用触发函数，1入, 2点动执行
+}
 void initializeButton(int inputPort, int outputPort) {  // 定义初始化情况
   pinMode(inputPort, INPUT_PULLUP);  // 设置 1口 为输入
   pinMode(outputPort, OUTPUT);  // 设置 2口 为输出
