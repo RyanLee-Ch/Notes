@@ -8,6 +8,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);  // 声明一�
 #define OLED_SCL 48  // 自定义I2C.SDA引脚为 47口 
 unsigned long previousMillis = 0;  // 记录上次显示更新的时间
 const long interval = 500;  // 显示更新间隔时间（毫秒），刷新太快会影响性能，如果实在有过高的性能要求，可以采用多线程方案
+String displayContent = "hello";  // 全局变量来保存显示内容
 
 void setup() {
   initializeDisplay();  // 显示器初始化
@@ -34,7 +35,7 @@ void updateDisplay() {  // 定义更新显示函数
   unsigned long currentMillis = millis();
   if (currentMillis - previousMillis >= interval) {  // 检查是否达到更新间隔时间
     previousMillis = currentMillis;  // 保存当前时间
-    executeDisplay(String(currentAngle));  // 更新显示内容
+    executeDisplay(String(displayContent));  // 更新显示内容
   }
 }
 void executeDisplay(String content) {  // 定义执行显示函数
