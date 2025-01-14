@@ -10,18 +10,11 @@ unsigned long previousMillis = 0;  // 记录上次显示更新的时间
 const long interval = 500;  // 显示更新间隔时间（毫秒），刷新太快会影响性能，如果实在有过高的性能要求，可以采用多线程方案
 String displayContent = "hello";  // 全局变量来保存显示内容
 
-void setup() {
-  initializeDisplay();  // 显示器初始化
-}
-
-void loop() {
-  executeDisplay(String("Hello, World"));  // 执行显示显示内容
-}
-
 
 // 显示器函数
+void setUpShow() {initializeDisplay();}
+void loopShow() {executeDisplay(String(displayContent));}
 void initializeDisplay() {  // 定义显示器初始化函数
-  Serial.begin(115200);  // 初始化串行通信
   Wire.begin(OLED_SDA, OLED_SCL);  // 初始化I2C通信，使用自定义的SDA和SCL引脚
   if(!display.begin(SSD1306_SWITCHCAPVCC, 0x3C)) { // 初始化OLED显示屏，0x3C 是OLED显示器的I2C地址
     Serial.println(F("SSD1306 allocation failed"));
@@ -57,4 +50,19 @@ void executeDisplay(String content) {  // 定义执行显示函数
   display.println(content);  // 显示文本
   display.display();  // 显示缓冲区内容
 }
+void showTask(void *pvParameters) {  // 多线程setup、loop
+  Serial.println("Starting " + String(__FUNCTION__));
+  setUpShow();  // setup对象
+  while (true) {
+    loopShow();  // loop对象
+    if (digitalRead(1) == LOW) {  // 设置内存查看条件
+      printMemoryInfo(__FUNCTION__);  // 调用内存信息打印函数（放在函数主要资源消耗的位置）
+    }
+    vTaskDelay(pdMS_TO_TICKS(1000));  // LOOP短暂延时循环，避免任务占用过多资源
+  }
+}
 
+
+void setup() {
+  xTaskCreate(showTask, "Show Task", 2000, NULL, 2, NULL);
+}
