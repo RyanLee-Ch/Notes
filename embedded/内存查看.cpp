@@ -20,8 +20,9 @@ void printMemoryInfo(const char* functionName) {
 }
 
 void setup() {
+  printMemoryInfo("setup");
 }
 
 void loop() {
-  printMemoryInfo();
+  printMemoryInfo("loop");
 }
