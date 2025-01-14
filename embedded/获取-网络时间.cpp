@@ -7,6 +7,7 @@ const char *ssid     = "Celitron";  // Wi-Fi名
 const char *password = "Celitron2022";  // Wi-Fi密码
 WiFiUDP ntpUDP;  // 配置Wifi与NTP服务器UDP通信
 NTPClient timeClient(ntpUDP, "pool.ntp.org", 8*3600, 60000); // 连接UTC+8（3600秒）时区，每分钟更新一次
+String curTime;  // 当前的时间值
 // ---------------
 
 void setup() {
@@ -14,7 +15,7 @@ void setup() {
 }
 
 void loop() {
-  String curTime = getTime();  // 获取时间
+  curTime = getTime();  // 获取时间
 }
 
 
