@@ -4,19 +4,19 @@
 
 // 示例被多线程执行函数1
 void setUpButton() {  // 被setup函数
-  initializeButton(1, 11);
+  initializeButton(1, 2);
 }
 void loopButton() {  // 被loop函数
-  controlRelay(1, 11);
+  controlRelay(1, 2);
 }
 void initializeButton(int inputPort, int outputPort) {
   pinMode(inputPort, INPUT_PULLUP), pinMode(outputPort, OUTPUT), digitalWrite(outputPort, LOW);
 }
 void controlRelay(int buttonPin, int relayPin) {
   if (digitalRead(buttonPin) == LOW) {
-    digitalWrite(relayPin, HIGH);
-  } else {
     digitalWrite(relayPin, LOW);
+  } else {
+    digitalWrite(relayPin, HIGH);
   }
 }
 
