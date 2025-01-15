@@ -2,27 +2,24 @@
 #include "freertos/task.h"
 
 // 被检测的函数
-void controlRelay(int buttonPin, int relayPin) { 
-  if (digitalRead(buttonPin) == LOW) { 
-    digitalWrite(relayPin, HIGH);
-    printMemoryInfo(__FUNCTION__);  // 调用内存查看函数
-  } else {
-    digitalWrite(relayPin, LOW);
+void controlRelay() { 
+}
+
+// 内存信息查看
+void callPrintMemoryInfo(int triggerOBJ, const char* FuncOBJ) {
+  bool currentButtonState = (digitalRead(triggerOBJ) == LOW);
+  if (currentButtonState && !buttonPressed) {  // 设置内存查看条件
+    Serial.println(String(FuncOBJ) + " 任务栈剩余内存: " + String(uxTaskGetStackHighWaterMark(NULL)));  // 检查当前任务剩余内存
+    // Serial.println(". 总堆内存: " + String(ESP.getHeapSize()) + ", 剩余堆内存: " + String(ESP.getFreeHeap()));  // 打印系统的总内存和剩余内存
+    buttonPressed = true;
+  } else if (!currentButtonState && buttonPressed) {
+    buttonPressed = false;
   }
 }
 
-// 内存信息打印函数，触发后即可显示当前任务的内存使用量，以及系统总内存
-void printMemoryInfo(const char* functionName) {
-  // 检查当前任务的栈高水位标记
-  Serial.print(String(functionName) + " Stack high water mark: " + String(uxTaskGetStackHighWaterMark(NULL)));
-  // 打印系统的总内存和剩余内存
-  Serial.println(". Total heap memory: " + String(ESP.getHeapSize()) + ", Free heap memory: " + String(ESP.getFreeHeap()));
-}
-
 void setup() {
-  printMemoryInfo("setup");
 }
 
 void loop() {
-  printMemoryInfo("loop");
+  callPrintMemoryInfo(1, "controlRelay");  // 放触发IO(可改为条件)、检测函数名；
 }
