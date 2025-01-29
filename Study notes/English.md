@@ -9,9 +9,9 @@
 |这个政策不适合小型企业用|这个政策不适合用，对于小型企业而言|The policy is not suitable|for|small business|
 
 ##### 状态 + 对象（应用to）：
+> 针对具体个人对象时，需要修改语序，目标需要放在最后
 |中文语序|英文语序|状态|to|对象|
 |----|----|----|----|----|
-|针对具体个人对象时，需要修改语序，目标需要放在最后|
 |他对陌生人很友善|他很友善，对陌生人|He is kind|to|stangers|
 |他对批评很敏感|他很敏感，对批评|He is sentive|to|criticism|
 |他对同事很粗鲁|他很粗鲁，对同事|He is rude|to|colleagues|
