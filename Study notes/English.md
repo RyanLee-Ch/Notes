@@ -68,6 +68,14 @@
 
 #### 详细补充语感
 ##### 句式 + 补充词 + 补充句：
-|中文语序|英文语序|基本句式|补充词|补充句|
-|------|------|-------|----|-----|
-|请基于附件绘制一张非常简单的CAD文件|请绘制一张非常简单的CAD文件，基于附件|Please create a simple CAD file|based on|the attached files|
+|补充词|中文语序|英文语序|基本句式|补充词|补充句|
+|----|------|------|-------|----|-----|
+|based on|请基于附件绘制一张非常简单的CAD文件|请绘制一张非常简单的CAD文件，基于附件|Please create a simple CAD file|based on|the attached files|
+
+#### 弱连接句
+##### 基本表达 + 弱连接词 + 连接目标：
+|and|包括3D的Solidworks零件，3D的CAD的DWG和STEP文件||
+
+#### 强连接句（作为任何词使用）
+##### 基本表达 + 强连接词 + 连接目标：
+|will be|最终交付将会是3D与2D文件|The final deliverables|will be|3D and 2D files|
