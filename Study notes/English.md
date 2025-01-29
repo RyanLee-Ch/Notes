@@ -18,3 +18,13 @@
 |他对花生过敏|他过敏，对花生|She is allergic|to|peanuts|
 |经理对员工很严格|经理很严格，对员工|The manager is strict|to|the staff|
 
+### 动作语感
+##### 动作 + 目的（应用to）：
+|中文语序|英文语序|动作|to|目的|
+|------|------|---|--|---|
+|他喜欢把船划到湖中心|他喜欢划船，到湖中心|He loves padding|to|the middle of the lake|
+|他开车去办公室了|他开车，去办公室|He drove|to|the office|
+|这只鸟飞到了树上|这只鸟飞了，到树上|The bird flew|to|the top of the tree|
+|他为了完成这份报告忙到了很晚|他忙到了很晚，为了这份报告|she stayed late|to|finish the report|
+|他坐火车去上班|他坐火车，去上班|He took the train|to|work|
+
