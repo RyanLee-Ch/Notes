@@ -1,4 +1,4 @@
-### 形容词语感
+#### 形容词语感
 ##### 状态 + 范围（应用for）：
 |中文语序|英文语序|状态|for|范围|
 |----|----|----|----|----|
@@ -19,7 +19,7 @@
 |他对花生过敏|他过敏，对花生|She is allergic|to|peanuts|
 |经理对员工很严格|经理很严格，对员工|The manager is strict|to|the staff|
 
-### 动作语感
+#### 动作语感
 ##### 动作 + 目的（应用to）：
 |中文语序|英文语序|动作|to|目的|
 |------|------|---|--|---|
@@ -38,7 +38,7 @@
 |他们跑去商店买了一些药|他们跑去商店，买一些药|They ran|to|the store|to|buy some medicine|
 |她去公园散步，呼吸新鲜空气|她散步在公园，为了呼吸新鲜空气|She walked|to|the park|to|get some fresh air|
 
-### 位置语感
+#### 定位语感
 ##### 精确方向 + 位置对象（应用of）：
 > 技巧：先指向小位置，再使用of the指向大位置
 |中文语序|精确方向|of|位置对象|补充对象|
@@ -50,7 +50,7 @@
 |在楼梯的台阶上|on the step|of|the staircase|The child is on the step of the staircase|
 |在我的抽屉里|in the drawer|of|my desk|The letter is in the drawer of my desk|
 
-### 目的位置语感
+#### 目的位置语感
 ##### 对象 + 目标位置（go to基本应用）：
 |时态|中文|谁|go to|哪|
 |---|---|--|-----|--|
