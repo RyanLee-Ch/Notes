@@ -40,25 +40,14 @@
 ### 位置语感
 ##### 精确方向 + 位置对象（应用of）：
 > 技巧：先指向小位置，再使用of the指向大位置
-|中文语序|精确方向|of|位置对象|
-|------|-------|--|------|
-|在桌子上面|on top|of|the table|
-|在房子前面|in front|of|the house|
-|在书架角落|at the corner|of|the shelf|
-|在广场中心|at the center|of|the bakery|
-|在楼梯的台阶上|on the step|of|the staircase|
-|在我的抽屉里|in the drawer|of|my desk|
-
-
-##### 对象 + 精确位置 + 大致位置（应用of）：
-|中文语序|英文语序|对象|精确位置|of|大致位置|
-|------|------|---|------|--|------|
-|钥匙在桌子上|钥匙，在上面，在桌子|The key|on top|of|the table|
-|车停在房子前|车，停在前面，在房子|The car|in front|of|the house|
-|书放在书架的角落|书，放在角落，在书架那儿|The book|at the corner|of|the shelf|
-|雕像里在广场中心|雕像，在中心，在广场|The statue is|at the center|of|the bakery|
-|那个小孩坐在楼梯的台阶上|那小孩，坐在台阶上，在楼梯|The child is|on the step|of the staircase|
-|信在我的抽屉里|信，在抽屉里，我的|The letter is|in the drawer|of|my desk|
+|中文语序|精确方向|of|位置对象|补充对象|
+|------|-------|--|------|------|
+|在桌子上面|on top|of|the table|The key on top of the table|
+|在房子前面|in front|of|the house|The car in front of the house|
+|在书架角落|at the corner|of|the shelf|The book at the corner of the shelf|
+|在广场中心|at the center|of|the bakery|The statue is at the center of the bakery|
+|在楼梯的台阶上|on the step|of|the staircase|The child is on the step of the staircase|
+|在我的抽屉里|in the drawer|of|my desk|The letter is in the drawer of my desk|
 
 ### 目的位置语感
 ##### 对象 + 目标位置（go to基本应用）：
