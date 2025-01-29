@@ -37,3 +37,14 @@
 |他们跑去商店买了一些药|他们跑去商店，买一些药|They ran|to|the store|to|buy some medicine|
 |她去公园散步，呼吸新鲜空气|她散步在公园，为了呼吸新鲜空气|She walked|to|the park|to|get some fresh air|
 
+### 位置语感
+##### 对象 + 精确位置 + 大致位置（应用of）：
+|中文语序|英文语序|对象|精确位置|of|大致位置|
+|------|------|---|------|--|------|
+|钥匙在桌子上|钥匙，在上面，在桌子|The key|on top|of|the table|
+|车停在房子前|车，停在前面，在房子|The car|in front|of|the house|
+|书放在书架的角落|书，放在角落，在书架那儿|The book|at the corner|of|the shelf|
+|雕像里在广场中心|雕像，在中心，在广场|The statue is|at the center|of|the bakery|
+|那个小孩坐在楼梯的台阶上|那小孩，坐在台阶上，在楼梯|The child is|on the step|of the staircase|
+|信在我的抽屉里|信，在抽屉里，我的|The letter is|in the drawer|of|my desk|
+
