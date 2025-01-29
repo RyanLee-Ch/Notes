@@ -65,3 +65,9 @@
 |动词替换(1)|他们开车上山|They|drove to|the mountains|
 |动词替换(2)|他们跑去商店|They|ran to|the store|
 |动词替换(3)|她散步去公园|She|walked to|the park|
+
+#### 详细补充语感
+##### 句式 + 补充词 + 补充句：
+|中文语序|英文语序|基本句式|补充词|补充句|
+|------|------|-------|----|-----|
+|请基于附件绘制一张非常简单的CAD文件|请绘制一张非常简单的CAD文件，基于附件|Please create a simple CAD file|based on|the attached files|
