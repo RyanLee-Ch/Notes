@@ -50,11 +50,13 @@
 
 ### 目的位置语感
 ##### 对象 + 目标位置（go to基本应用）：
-|时态|谁|go to|哪|
-|---|--|-----|--|
-|陈述时态|I|go to||the gym|
-|现在时态|I am|going to|the gym|
-|过去时态|I|went to|the gym|
-|完成时态|I have|gone to|the gym|
-|曾经时态|I have|been to|the gym|
-
+|时态|中文|谁|go to|哪|
+|---|---|--|-----|--|
+|陈述时态|我去健身房|I|go to|the gym|
+|现在时态|我现在去健身房|I am|going to|the gym|
+|过去时态|我之前去过健身房|I|went to|the gym|
+|完成时态|我刚去了健身房|I have|gone to|the gym|
+|曾经时态|我以前去过健身房|I have|been to|the gym|
+|动词替换(1)|他们开车上山|They|drove to|the mountains|
+|动词替换(2)|他们跑去商店|They|ran to|the store|
+|动词替换(3)|她散步去公园|She|walked to|the park|
