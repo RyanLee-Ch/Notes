@@ -48,3 +48,13 @@
 |那个小孩坐在楼梯的台阶上|那小孩，坐在台阶上，在楼梯|The child is|on the step|of the staircase|
 |信在我的抽屉里|信，在抽屉里，我的|The letter is|in the drawer|of|my desk|
 
+### 目的位置语感
+##### 对象 + 目标位置（go to基本应用）：
+|时态|谁|go to|哪|
+|---|--|-----|--|
+|陈述时态|I|go to||the gym|
+|现在时态|I am|going to|the gym|
+|过去时态|I|went to|the gym|
+|完成时态|I have|gone to|the gym|
+|曾经时态|I have|been to|the gym|
+
