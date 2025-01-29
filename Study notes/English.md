@@ -28,3 +28,12 @@
 |他为了完成这份报告忙到了很晚|他忙到了很晚，为了这份报告|she stayed late|to|finish the report|
 |他坐火车去上班|他坐火车，去上班|He took the train|to|work|
 
+##### 动作 + 目的 + 双目的（应用 to ... to）：
+|中文语序|英文语序|动作|to|目的|to|双目的|
+|------|------|---|--|---|--|-----|
+|我去健身房是为了锻炼|我去健身房，为了锻炼|I went|to|the gym|to work out|
+|他们开车去山区徒步|他们开车去山区，为了徒步|They drove|to|the mountains|to|hike|
+|他去商店买一些杂货|他去商店，买一些杂货|They went|to|the store|to|buy some groceries|
+|他们跑去商店买了一些药|他们跑去商店，买一些药|They ran|to|the store|to|buy some medicine|
+|她去公园散步，呼吸新鲜空气|她散步在公园，为了呼吸新鲜空气|She walked|to|the park|to|get some fresh air|
+
