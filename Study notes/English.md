@@ -38,6 +38,17 @@
 |她去公园散步，呼吸新鲜空气|她散步在公园，为了呼吸新鲜空气|She walked|to|the park|to|get some fresh air|
 
 ### 位置语感
+##### 精确方向 + 位置对象（应用of）：
+|中文语序|精确方向|of|位置对象|
+|------|-------|--|------|
+|在桌子上面|on top|of|the table|
+|在房子前面|in front|of|the house|
+|在书架角落|at the corner|of|the shelf|
+|在广场中心|at the center|of|the bakery|
+|在楼梯的台阶上|on the step|of|the staircase|
+|在我的抽屉里|in the drawer|of|my desk|
+> 技巧：先指向小位置，再使用of the指向大位置
+
 ##### 对象 + 精确位置 + 大致位置（应用of）：
 |中文语序|英文语序|对象|精确位置|of|大致位置|
 |------|------|---|------|--|------|
