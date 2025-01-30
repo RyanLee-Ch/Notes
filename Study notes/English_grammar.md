@@ -8,6 +8,14 @@
 |英文A|中文A|英文B|中文B|英本C|中文C|英文D|中文D|英文E|中文E|
 |----|----|-----|-----|-----|----|---|----|----|----|
 |hair|头发|face|脸|nose|鼻子|eye|眼睛|eyeball|眼球|
+
+|ear|耳朵|mouth|嘴巴|skin|皮肤|hand|手|finger|手指|
+
+|foot/feet|脚|fingerprint|指纹|thumb|大拇指|index finger|食指|middle finger|中指|
+
+|ring finger|无名指|little finger|小拇指|stomach|胃|boobs|乳房|penies|阴茎|
+
+
 <a name="语感"></a>
 ### 习惯句语法语感
 #### 形容词语感
