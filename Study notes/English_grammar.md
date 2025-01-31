@@ -51,8 +51,26 @@
 |apartment|公寓|city|城市|country|国家|equipment|设备|device|装置|
 |backup|备份|strainer|过滤器|part|部件|default|默认|conversation|交谈|
 |billionaire|亿万富翁|yourself|你自己|short|短裤|underpants|内裤|sneakers|休闲运动鞋|
-|fur|皮草|||||||||
-|||||||||||
+|restaurant|饭店|jungle|丛林|diner|小餐馆|bar|酒吧|gym|健身房|
+|sign|指示牌|trash can|垃圾桶|hole|洞|bridge|桥|sunlight|阳光|
+|thing|东西, 事情|map|地图|photo|照片|image|图片|package|包裹|
+|distance|距离|garbage|垃圾|picnic|野餐|information/info|信息|movie|电影|
+|appointment|预约|trip|旅行|advertising/ad|广告|price|价格|file|文件|
+|salary|工资|performance|表现|job|工作|break|休息|mistake|错误|
+|paycheck|工资|news|新闻|fire|火灾|show|电视节目|menu|菜单|paper|报纸|
+|art|艺术|history|历史|science|科学|sentence|句子|engineering|工程|
+|project|项目|pressure|压力|model|型号|system|系统|control system|控制系统|
+|software|软件|hardware|硬件|mode|模式|version|版本|sharing|共享|account|账号|
+|bluetooth|蓝牙|hotspot|热点|network|网络|password|密码|app|应用|settings|设置|
+|power|功率|installation|安装|screw|螺丝钉|nut|螺母|relay|继电器|button|按钮|
+|wire|单股电线|cable|多股线缆|bearing|轴承|stainless steel|不锈钢|motor|电机|switch|开关|
+|steam generator|蒸汽发生器|pipe|管|air pipe|气管|water pipe|水管|processor/CPU|处理器|
+|size|尺寸|minimum size|最小尺寸|maximum size|最大尺寸|camera|相机, 摄像头|install|安装|
+|signal|信号|filter|过滤器|inlet|入口|outlet|出口|steam|蒸汽|
+|fur|皮草|Random Access Memory/RAM|运存|uninstall|卸载|steel|钢|database|数据库|
+|main switch|主开关|emergency switch|急停开关|product|产品|design|设计|pump|泵|
+|resume|简历|patient|病人|clothes/clothing|衣服/服装|laptop|笔记本电脑|remote control/remote|遥控器|
+|fence|围栏|
 
 <a name="速记语感表"><a/>
 #### 语感速记表
