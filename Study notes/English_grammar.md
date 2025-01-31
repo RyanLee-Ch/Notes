@@ -11,6 +11,24 @@
 |ear|耳朵|mouth|嘴巴|skin|皮肤|hand|手|finger|手指|
 |foot/feet|脚|fingerprint|指纹|thumb|大拇指|index finger|食指|middle finger|中指|
 |ring finger|无名指|little finger|小拇指|stomach|胃|boobs|乳房|penies|阴茎|
+#### 语感速记表
+##### 形容语感速记
+|应用词|应用格式|中文例句|英文表达|
+|----|-------|------|------|
+|for|状态 + 范围|这份工作对于有经验的人来说很完美|The job is perfect for someone with experience|
+|to|状态 + 对象|她对花生过敏|She is allergic to peanuts|
+##### 动作语感速记
+|应用词|应用格式|中文例句|英文表达|
+|----|-------|------|------|
+|to|动作 + 目的|这鸟飞到了树上|The bird flew to the top of the tree|
+|to...to|动作 + 双目的|他们去商店买了一些杂货|They went to the store to buy some groceries|
+
+##### 定位语感速记
+|应用词|应用格式|中文例句|英文表达|
+|----|-------|------|------|
+|of|精确方位 + 位置对象|钥匙放在桌子上了|The key on the top of the table|
+
+##### 目的位置语感速记
 
 
 <a name="语感"></a>
