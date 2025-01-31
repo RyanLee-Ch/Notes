@@ -49,6 +49,9 @@
 |white|白|navy blue|藏青|station|站点|room|房间|living room|客厅|
 |bed room|卧室|hotel|酒店|school|学校|home|家|house|房子|
 |apartment|公寓|city|城市|country|国家|equipment|设备|device|装置|
+|backup|备份|strainer|过滤器|part|部件|default|默认|conversation|交谈|
+|billionaire|亿万富翁|yourself|你自己|short|短裤|underpants|内裤|sneakers|休闲运动鞋|
+|fur|皮草|||||||||
 |||||||||||
 
 <a name="速记语感表"><a/>
