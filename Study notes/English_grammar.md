@@ -11,6 +11,11 @@
 |ear|耳朵|mouth|嘴巴|skin|皮肤|hand|手|finger|手指|
 |foot/feet|脚|fingerprint|指纹|thumb|大拇指|index finger|食指|middle finger|中指|
 |ring finger|无名指|little finger|小拇指|stomach|胃|boobs|乳房|penies|阴茎|
+|vagina|阴道|tongue|舌头|tooth/teeth|牙齿|neck|脖子|emotion|情绪|
+|team|团队|your favorite|你的最爱|old|岁数|name|名字|body|身体|
+|smile|微笑|they|他们|friend|朋友|boyfriend|男朋友|girlfriend|女朋友|
+|dad/father|爸爸|mom/monther|妈妈|grandpa/grandfather|爷爷/外公|grandma/grandmother|奶奶/外婆|uncle|叔叔|
+
 #### 语感速记表
 ##### 形容语感速记
 |应用词|应用格式|中文例句|英文表达|
