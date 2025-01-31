@@ -25,8 +25,30 @@
 |earing|耳环|necklace|项链|glasses|眼镜|sunglasses|墨镜|button|扣子|
 |mask|口罩|tattoos|纹身|security camera|监控摄像头|phone|手机|telephone|电话|
 |computer|电脑|charger|充电器|charging cable|充电线|power bank|充电宝|keyboard|键盘|
-
-
+|microphone/mic|麦克风|monitor|显示器|monitor stand|显示器支架|screen|屏幕|air conditioner/AC|空调|
+|television/TV|电视|fridge|冰箱|washing machine|洗衣机|fan|风扇|kettle|电热水壶|
+|light|电灯|pc case|电脑主机|mouse|鼠标|garden|花园|lake|湖|
+|automatic door|自动门|chair|椅子|table|桌子|desk|书桌|door|门|
+|wall|墙|floor|地板|ceiling|天花板|window|窗口|windowsill|窗台|
+|shower head|花洒|toilet|马桶|squat toilet|蹲厕|sink|洗水槽|book shelf|书架|
+|bed|床|sofa/couch|沙发|table leg|桌腿|spoon|勺子|soup spoon|汤勺|
+|slotted spoon|漏勺|pot|锅|lid|盖|fork|叉子|cup|杯|
+|spatula|锅铲|oil|油|ketchup|蕃茄酱|napkin|餐巾|toothbrush|牙刷|
+|toothpaste|牙膏|flowers|鲜花|person|人|pig|猪|pork|猪肉|
+|sheep|羊|fish|鱼|snake|蛇|turkey|火鸡|duck|鸭子|
+|goose|鹅|bird|鸟|egg|蛋|cake|蛋糕|dessert|甜品|
+|cupcake|纸杯蛋糕|horse|马|chocolate|巧克力|monster|怪物|car|汽车|
+|bus|公车|shuttle|便民车|bicycle|自行车|motorcycle|摩托车|train|火车|
+|high-speed train|高铁|subway|地铁|helicopter|直升机|tank|坦克|ship|船|
+|automatic umbrella|自动伞|umbrella|伞|wrench|扳手|adjustable wrench|活动扳手|open-end wrench|开口扳手|
+|box-end wrench|套筒|combination wrench|组合扳手|lighter|打火机|sterilizer|灭菌器|shredder|粉碎器|
+|hammer|锤子|pipe wrench|管钳|3D printer|3D打印机|heater|加热器|color|颜色|
+|red|红|yellow|黄|blue|蓝|green|绿|cyan|青|
+|orange|橙|purple|紫|golden|金|black|黑|silver|银|
+|white|白|navy blue|藏青|station|站点|room|房间|living room|客厅|
+|bed room|卧室|hotel|酒店|school|学校|home|家|house|房子|
+|apartment|公寓|city|城市|country|国家|equipment|设备|device|装置|
+|||||||||||
 
 #### 语感速记表
 ##### 形容语感速记
