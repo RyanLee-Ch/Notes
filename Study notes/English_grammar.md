@@ -110,6 +110,21 @@
 |manual|手册|list|清单|victory|胜利|angle|角度|thickness|厚度|
 |power saving|省电|feedback|反馈|malfunction|故障|measurement|测量|dimension|尺寸|
 |hard drive|硬盘|power cable|电源线|TOP|一次性验证码|term|转业的术语|operation|业务|
+|West|西方|data/USB cable|数据线|hair dryer|电吹风|outlet/socket|插座|mouse pad|鼠标垫|
+|router|路由器|stool|凳子|clothes line|晾衣绳|shelf|架子|cooking oil|食用油|
+|chopsticks|筷子|seafood|海鲜|key|钥匙|subway station/metro station|地铁站|train station/railway station|火车站|
+|backyard|后院|Europe|欧洲|document|文件|novel|小说|exam|考试|
+|temperature|温度|desktop|桌面|experience|经验|solution|解决方案|development|发展|
+|execution|执行|core|核心|vacuum|真空|log|日志|electronic|电子|
+|electrical|电气|stress|应力|shape change|形变|alternating current/AC|交流电|direct current/DC|直流电|
+|three-phase power|三相电|main power|主电源|building codes|建筑规范|gear|齿轮|circuit breaker|断路器|
+|circuit board|电路板|cooling fan|散热风扇|cable trunking|线槽|cable trunking cover|线槽盖|rubber seal|密封橡胶|
+|nameplate|铭牌|transmitter|变送器|pressure transmitter|压力变送器|temperature transmitter|温度变送器|compressed air|压缩空气|
+|air compressor|空气压缩机|conveyor|输送机, 传送带|shell|壳体|jacket|套管|gasket|密封垫片|
+|panel|面板|heat exchanger|热交换机|electrical cables|电缆|valve|阀|unit|模块|interruption|中断|
+|separator|分离机|live wire|火线|neutral wire|零线, 中性线|earth wire|地线|cooler|冷却器|fluid|流体|
+|carbon|碳.C|production|生产|feature|功能|blueprint|蓝图|reaction|反应|raw materials|原材料|
+|manufacturing|制造业|lungs|肺|Adam's apple|喉结|risk|风险|cost|费用|hourly rate|每小时租金|
 |battery|电池|fence|围栏|
 <a name="速记语感表"><a/>
 #### 语感速记表
