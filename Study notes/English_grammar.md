@@ -15,6 +15,17 @@
 |team|团队|your favorite|你的最爱|old|岁数|name|名字|body|身体|
 |smile|微笑|they|他们|friend|朋友|boyfriend|男朋友|girlfriend|女朋友|
 |dad/father|爸爸|mom/monther|妈妈|grandpa/grandfather|爷爷/外公|grandma/grandmother|奶奶/外婆|uncle|叔叔|
+|aunt|阿姨|dude|老哥/哥们儿|daughter|女儿|engineer|工程师|waitress|女服务员|
+|designer|设计师|learner|学员|Russian|俄罗斯人|boss|老板|Japanese|日本人|
+|wife|妻子|Asian|亚洲人|hooker|妓女|whore|妓女|doctor|医生/博士|
+|guy|哥们儿|uniform|制服|pocket|口袋|bag|手提袋|backpack|背包|
+|watch|手表|T-shirt|T恤|coat|外套|shirt|衬衫|hoodie|卫衣|
+|bra|女内衣|pants|裤子|sleeve|袖子|hat|边沿帽子|ring|戒指|
+|earing|耳环|necklace|项链|glasses|眼镜|sunglasses|墨镜|button|扣子|
+|mask|口罩|tattoos|纹身|security camera|监控摄像头|phone|手机|telephone|电话|
+|computer|电脑|charger|充电器|charging cable|充电线|power bank|充电宝|keyboard|键盘|
+
+
 
 #### 语感速记表
 ##### 形容语感速记
