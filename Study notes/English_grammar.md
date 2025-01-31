@@ -90,6 +90,26 @@
 |fault|错|brand|品牌|fingernail|手指甲|toenail|脚趾甲|native speaker of English|英语母语者|
 |pregnancy|怀孕|technician|技术员|leadership|领导|shoes|鞋子|boots|靴子|
 |USB drive/thumb drive|U盘|receiver|接收器|faucet/tap|水龙头|plate|碟子|shampoo|洗发水|
+|cow|牛|tech company|科技公司|business card|名片|instruction|指导|matter|事情|
+|truth|真相|beard|脸上的汗毛|toe|脚趾|chest|胸部|skin tone|肤色|
+|ability|能力|decision|决定|collector|收藏家|president|总统|western|西方人|
+|criminal|罪犯|role|角色|client|客户|expert|专家|editor|编辑|
+|intern|实习生|hair tie|发箍, 发圈|tank top|运动背心|vest|休闲背心|socks|袜子|
+|knit hat|针织帽子|stain|污渍|headphone|头戴式耳机|tablet|平板电脑|light bulb|灯泡|
+|lamp|台灯|hanger|衣架|nightstand|床头柜|wine rack|酒架|blanket|毯子|
+|curtain|窗帘|appliance|家电|seasoning|调味料|bowl|碗|soy sauce|酱油|
+|rice paddle|饭勺|razor|剃须刀|body wash|沐浴露|perfume|香水|human flesh|人肉|
+|deer|鹿|mutton|羊肉|crop|庄家|horseradish|山葵酱|chowder|大杂烩|
+|fighter jet|战斗机|rocket|火箭|suitcase|行李箱|box knife|美工刀|hex wrench|六角扳手|
+|wire stripper|剥线钳|tape measure|卷尺|lifter|升降机|toy|玩具|external storage|移动硬盘|
+|residential community|小区|tunnel|隧道|town|城镇|restroom|卫生间|Manhattan|曼哈顿|
+|neighborhood|社区|bloc|集团|wire net|铁丝网|billboard|广告牌|sewage|污水|
+|diagram|图表|explanation|解释|soft copy|电子版文件|resource|资源|proposal|建议|
+|fee|费用|tips|小费|create|创造|screenshot|截图|labor|劳动|
+|requirement|要求|course|课程|literature|文学|watercolor|水彩|chemistry class|化学课|
+|manual|手册|list|清单|victory|胜利|angle|角度|thickness|厚度|
+|power saving|省电|feedback|反馈|malfunction|故障|measurement|测量|dimension|尺寸|
+|hard drive|硬盘|power cable|电源线|TOP|一次性验证码|term|转业的术语|operation|业务|
 |battery|电池|fence|围栏|
 <a name="速记语感表"><a/>
 #### 语感速记表
