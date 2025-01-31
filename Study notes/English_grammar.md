@@ -70,8 +70,27 @@
 |fur|皮草|Random Access Memory/RAM|运存|uninstall|卸载|steel|钢|database|数据库|
 |main switch|主开关|emergency switch|急停开关|product|产品|design|设计|pump|泵|
 |resume|简历|patient|病人|clothes/clothing|衣服/服装|laptop|笔记本电脑|remote control/remote|遥控器|
-|fence|围栏|
-
+|salt|盐|strainer|滤勺|funnel|漏斗|field|田野|area|地区|
+|landscape|景色|bank|银行|inflation|通货膨胀|communication|交谈|word|词, 字|
+|meth|冰毒|well|好|display|显示|service|服务|repair|维修|
+|submission|提交|template|模板|field|某个领域|set|集合|connection|连接|
+|control center|控制中心|analog signal|模拟信号|digital signal|数字信号|terminal|接线端子|switching power supply|开关电源|
+|flange|法兰|concrete|混凝土|production|生产量|exchanger|交换器|memory|存储|
+|immune system|免疫系统|nose hair|鼻毛|body hair|汗毛|idea|主意|career|事业|
+|cleaning|打扫|manager|经理|responsibility/ties|责任|analyst|分析师|freelancer|自由职业者|
+|translator|翻译|underwear|内衣|water heater|热水器|USB port|USB接口|speaker|音响|
+|oven|烤箱|peanut oil|花生油|MSG|味精|tissue|餐巾纸|beef|牛肉|
+|plant|植物|gas car|油车|wall scanner|墙体探测仪|box|盒子|bathroom/toilet|厕所|
+|region|大地区|jail|监狱|China|中国|World|世界|Asia|亚洲|
+|plant|工厂|campus|大学校园|escalator|电扶梯|smell|气味|sound|声音|
+|entertainment|娱乐|business|商业|asking price|指导价|challenge|挑战|text|文本|
+|format|格式|level|等级, 水平|translation|翻译|licence|许可证|background|背景|
+|culture|文化|application|申请|higher education|高等教育|noun|名词|verb|动词|
+|Chinese Simplified|简体中文|title|标题|comment|评论|spacewalk|太空行走|immigration|移民|
+|fault|错|brand|品牌|fingernail|手指甲|toenail|脚趾甲|native speaker of English|英语母语者|
+|pregnancy|怀孕|technician|技术员|leadership|领导|shoes|鞋子|boots|靴子|
+|USB drive/thumb drive|U盘|receiver|接收器|faucet/tap|水龙头|plate|碟子|shampoo|洗发水|
+|battery|电池|fence|围栏|
 <a name="速记语感表"><a/>
 #### 语感速记表
 ##### 形容语感速记
