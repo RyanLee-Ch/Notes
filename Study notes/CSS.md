@@ -9,10 +9,9 @@
 <input type="输入类型">
 ```
 
-```html
 |属性补全|作用|备注属性|
 |-------|-----|------|
-|type="text"|单行文本输入||
+|```html type="text" ```|单行文本输入||
 |type="password"|密码输入||
 |type="email"|邮件输入||
 |type="number"|数字输入|min="最小值" max="最大值"|
@@ -29,6 +28,3 @@
 |type="search"|搜索框||
 |type="tel"|电话输入||
 |type="url"|网址输入||
-```
-
-
