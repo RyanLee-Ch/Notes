@@ -16,7 +16,7 @@
 |```html type="email" ```|邮件输入||
 |```html type="number"```|数字输入|```html min="最小值" max="最大值"```|
 |```html type="date" ```|日期选择||
-  |```html type="checkbox" ```|复选|value="yes"|
+  |```html type="checkbox" ```|复选|```html value="yes" ```|
 |```html type="radio" ```|单选|```html value="每个radio都有不同的value标志" ```|
 |```html type="submit" ```|提交|```html value="提交按钮示意文字" ```|
 |```html type="reset" ```|重置|```html value="重置按钮示意文字" ```|
