@@ -18,7 +18,7 @@
 |type="email"|邮件输入||
 |type="number|数字输入| min="最小值" max="最大值"|
 |type="date"|日期选择||
-  |```html type="checkbox" |复选| value="yes" |
+|type="checkbox" |复选| value="yes":携带name的值送入后端 |
 |type="radio"|单选| value="每个radio都有不同的value标志" |
 |type="submit"|提交| value="提交按钮示意文字" |
 |type="reset"|重置| value="重置按钮示意文字" |
