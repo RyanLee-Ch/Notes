@@ -6,9 +6,9 @@
 - [二、基础应用](#基础应用)
   - [1.HTML应用CSS](#HTML应用CSS)
 <a name="基础标签"></a>
-#### 基础标签
+### 基础标签
 <a name="div"></a>
-##### 盒子标签（div）
+#### 盒子标签（div）
 ```html
 <div><div>
 ```
@@ -25,7 +25,7 @@
 |`padding`|全向内边距|用法与margin一致||
 
 <a name="input"></a>
-##### 输入与选择标签（input）
+#### 输入与选择标签（input）
 ```html
 <input type="输入类型">
 ```
@@ -49,7 +49,7 @@
 | `type="tel"`      | 电话输入           |                                    |
 | `type="url"`      | 网址输入           |                                    |
 <a name="img"></a>
-##### 图片标签（img）
+#### 图片标签（img）
 ```html
 <img src="图片路径" alt="替代文本">
 ```
@@ -63,15 +63,16 @@
 |`srcset`|多图片候选|`srcset="s.jpg 480w, m.jpg 800w, l.jpg 1200w"`|在不同宽度的情况下调用不同的图片|
 |`sizes`|响应式图片显示宽度|`sizes="(max-width: 600px) 100vw, 800px"`|在屏幕≤600px时，图片宽度占满，否则固定800px|
 <a name="基础应用"></a>
-#### 基础应用
+### 基础应用
 <a name="HTML应用CSS"></a>
-##### HTML应用CSS
-应用class选择器：
+#### HTML应用CSS
+##### 应用class选择器：
 ```html
 <body>
+  /* 被作用标签为div，使用class调用box样式 */
   <div class="box1"></div>
   <div class="box2"></div>
-
+  /* 在style内使用"."符号创建名为box样式的class选择器 */
   <style>
     .box {
       width: 100px;
