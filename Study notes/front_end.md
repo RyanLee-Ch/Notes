@@ -66,6 +66,17 @@
 #### 基础应用
 <a name="HTML应用CSS"></a>
 ##### HTML应用CSS
+应用class选择器：
 ```html
+<body>
+  <div class="box1"></div>
+  <div class="box2"></div>
 
+  <style>
+    .box {
+      width: 100px;
+      height: 100px;
+    }
+  </style>
+</body>
 ```
