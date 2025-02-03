@@ -1,10 +1,13 @@
 # 目录
 - [一、基础标签](#基础标签)
-  - [1.div标签](#div)
+  - [1. div标签](#div)
   - [2. input标签](#input)
   - [3. img标签](#img)
 - [二、基础应用](#基础应用)
-  - [1.HTML应用CSS](#HTML应用CSS)
+  - [1. HTML应用CSS](#HTML应用CSS)
+- [三、常用CSS样式](#常用CSS样式)
+  - [1. 渐变](#渐变)
+
 <a name="基础标签"></a>
 ### 基础标签
 <a name="div"></a>
@@ -80,4 +83,13 @@
     }
   </style>
 </body>
+```
+<a name="常用CSS样式"></a>
+### 常用CSS样式
+<a name="渐变"></a>
+#### 渐变
+##### 线性渐变
+```css
+/* purple, blue, cyan三色渐变，可以自定义多色或更少色 */
+background: linear-gradient(to right, purple, blue, cyan);
 ```
