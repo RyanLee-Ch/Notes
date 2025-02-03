@@ -27,7 +27,7 @@
 |`margin-left`|左外边距|`margin-left: 10px;`|盒子距离左部10px|
 |`margin-right`|右外边距|`margin-right: 10px;`|盒子距离右部10px|
 |`padding`|全向内边距|用法与margin一致||
-
+> 注意：在分辨率不固定的情况下，可以采用%为单位替代px。
 <a name="input"></a>
 #### 输入与选择标签（input）
 ```html
