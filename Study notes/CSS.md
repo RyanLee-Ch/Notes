@@ -13,12 +13,15 @@
 ```
 |<div align="center">属性补全</div>|作用|示例|备注|
 |:---------------------------------|:---:|:----:|:-----:|
+|`width`|宽度|`width: 100px;`|盒子宽度为100px|
+|`height`|高度|`height: 100px;`|盒子高度为100px|
+|`background-color`|背景颜色|`background-color: red;`、`background-color: #f00;`|设置盒子背景颜色|
 |`margin`|全向边距|`margin: 10px;`、`margin: 10px 20px 30px 40px`|盒子的全向外部距离|
 |`margin-top`|上外边距|`margin-top: 10px;`|盒子距离顶部10px|
 |`margin-bottom`|下外边距|`margin-bottom: 10px;`|盒子距离底部10px|
 |`margin-left`|左外边距|`margin-left: 10px;`|盒子距离左部10px|
 |`margin-right`|右外边距|`margin-right: 10px;`|盒子距离右部10px|
-|`padding`|全向内边距|用法与margin一致|||
+|`padding`|全向内边距|用法与margin一致||
 
 <a name="input"></a>
 ##### 输入与选择标签（input）
