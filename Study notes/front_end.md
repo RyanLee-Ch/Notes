@@ -8,6 +8,7 @@
     - [1.1 类名选择器](#类名选择器)
 - [三、常用CSS样式](#常用CSS样式)
   - [1. 渐变](#渐变)
+  - [2. 字体](#字体)
 
 <a name="基础标签"></a>
 ### 基础标签
@@ -96,3 +97,5 @@
 /* purple, blue, cyan三色渐变，可以自定义多色或更少色，可以使用#十六进制或rgb/rgba */
 background: linear-gradient(to right, purple, blue, cyan);
 ```
+<a name="字体"></a>
+#### 字体
