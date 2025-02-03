@@ -70,7 +70,7 @@
 ```html
 <body>
   /* 被作用标签为div，使用class调用box样式 */
-  <div class="box1"></div>
+  <div class="box"></div>
   <div class="box2"></div>
   /* 在style内使用"."符号创建名为box样式的class选择器 */
   <style>
