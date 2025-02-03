@@ -90,6 +90,6 @@
 #### 渐变
 ##### 线性渐变
 ```css
-/* purple, blue, cyan三色渐变，可以自定义多色或更少色 */
+/* purple, blue, cyan三色渐变，可以自定义多色或更少色，可以使用#十六进制或rgb/rgba */
 background: linear-gradient(to right, purple, blue, cyan);
 ```
