@@ -18,6 +18,7 @@
 |`margin-bottom`|下外边距|`margin-bottom: 10px;`|盒子距离底部10px|
 |`margin-left`|左外边距|`margin-left: 10px;`|盒子距离左部10px|
 |`margin-right`|右外边距|`margin-right: 10px;`|盒子距离右部10px|
+|`padding`|全向内边距|用法与margin一致|||
 
 <a name="input"></a>
 ##### 输入与选择标签（input）
