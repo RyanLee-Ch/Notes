@@ -1,10 +1,24 @@
 # 目录
 - [一、基础标签](#基础标签)
-  - [1. input标签](#input)
-  - [2. img标签](#img)
+  - [1.div标签](#div)
+  - [2. input标签](#input)
+  - [3. img标签](#img)
 
 <a name="基础标签"></a>
 #### 基础标签
+<a name="div"></a>
+##### 盒子标签（div）
+```html
+<div><div>
+```
+|<div align="center">属性补全</div>|作用|示例|备注|
+|:---------------------------------|:---:|:----:|:-----:|
+|`margin`|全向边距|`margin: 10px;`、`margin: 10px 20px 30px 40px`|盒子的全向外部距离|
+|`margin-top`|上外边距|`margin-top: 10px;`|盒子距离顶部10px|
+|`margin-bottom`|下外边距|`margin-bottom: 10px;`|盒子距离底部10px|
+|`margin-left`|左外边距|`margin-left: 10px;`|盒子距离左部10px|
+|`margin-right`|右外边距|`margin-right: 10px;`|盒子距离右部10px|
+
 <a name="input"></a>
 ##### 输入与选择标签（input）
 ```html
