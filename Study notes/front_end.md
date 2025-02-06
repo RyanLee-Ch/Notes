@@ -101,9 +101,8 @@ background: linear-gradient(to right, purple, blue, cyan);
 #### 字体
 |字体设置|说明|示例|备注|
 |-------|----|----|----|
-|`font-family`|字体|`font-family: "Helvetica Neue", Arial, sans-serif;`|依次设置字体类型|
-
-##### 字体大小
-```csss
-font-size
-```
+|`font-family`|字体类型|`font-family: "Helvetica Neue", Arial, sans-serif;`|依次设置字体类型|
+|`font-size`|字体大小|`font-size: 2rem;`|设置字体大小为2rem，1rem=16px|
+|`font-weight`|字体粗细|`font-weight: normal;`、`font-weight: bold;`|设置字体类型，normal(默认)、bold(加粗)|
+|`color`|字体颜色|`color: #FF0000;`|字体颜色设置为#FF0000|
+|`line-height`|行间距|`line-height: 1.6`|行高/间距设置为1.6倍|
