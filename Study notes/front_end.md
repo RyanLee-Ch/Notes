@@ -99,3 +99,11 @@ background: linear-gradient(to right, purple, blue, cyan);
 ```
 <a name="字体"></a>
 #### 字体
+|字体设置|说明|示例|备注|
+|-------|----|----|----|
+|`font-family`|字体|`font-family: "Helvetica Neue", Arial, sans-serif;`|依次设置字体类型|
+
+##### 字体大小
+```csss
+font-size
+```
