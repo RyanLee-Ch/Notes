@@ -220,6 +220,7 @@
 |补充词|中文语序|英文语序|基本句式|补充词|补充句|
 |----|------|------|-------|----|-----|
 |based on|请基于附件绘制一张非常简单的CAD文件|请绘制一张非常简单的CAD文件，基于附件|Please create a simple CAD file|based on|the attached files|
+|with a focus on|我经常学习怎么去开发网站，主要是前端开发|/|I usually learn how to develop websites, with a focus on front-end development|
 
 #### 弱连接句
 ##### 基本表达 + 弱连接词 + 连接目标：
