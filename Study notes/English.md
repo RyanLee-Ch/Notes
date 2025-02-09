@@ -159,6 +159,7 @@
 |concept|概念|ˈkɑːnsept|/|
 |quantum|量子|ˈkwɑːntəm|/|
 |aerospace/EADS|航空航天|ˈeroʊspeɪs|/|
+|innovation|创新|ˌɪnəˈveɪʃn|/|
 
 <a name="形容词表"></a>
 ##### 形容词表
