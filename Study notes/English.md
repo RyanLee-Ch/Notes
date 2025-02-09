@@ -161,6 +161,7 @@
 |aerospace/EADS|航空航天|ˈeroʊspeɪs|/|
 |innovation|创新|ˌɪnəˈveɪʃn|/|
 |fiction|小说|ˈfɪkʃn|/|
+|inspiration|灵感|ˌɪnspəˈreɪʃn|/|
 
 <a name="形容词表"></a>
 ##### 形容词表
