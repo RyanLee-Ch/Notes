@@ -172,6 +172,7 @@
 |fascinating|ˈfæsɪneɪtɪŋ|迷人的|fascinating technical developments|
 |renewable|rɪˈnuːəbl|可再生的|renewable source|
 |fantastic|fænˈtæstɪk|超棒的|That's fantastic|
+|recent|ˈriːsnt|最近的|recent earthquake|
 
 
 <a name="动词表"></a>
