@@ -163,6 +163,7 @@
 |单词A|音标A|中文A|示例A|
 |:-----:|:----:|:----:|:------:|
 |fascinating|ˈfæsɪneɪtɪŋ|迷人的|fascinating technical developments|
+|renewable|rɪˈnuːəbl|可再生的|renewable source|
 
 <a name="副词表"></a>
 ##### 副词表
