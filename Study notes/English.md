@@ -160,6 +160,7 @@
 |quantum|量子|ˈkwɑːntəm|/|
 |aerospace/EADS|航空航天|ˈeroʊspeɪs|/|
 |innovation|创新|ˌɪnəˈveɪʃn|/|
+|fiction|小说|ˈfɪkʃn|/|
 
 <a name="形容词表"></a>
 ##### 形容词表
