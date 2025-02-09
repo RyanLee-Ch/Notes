@@ -181,6 +181,7 @@
 |英文|中文|音标|例句|
 |:-----:|:----:|:------:|:----:|
 |explore|探索|ɪkˈsplɔːr|They plan to explore the Amazon rainforest next summer|
+|stride toward|大步走向/迈向|straɪd təˈwɒrd|strides toward commercial|
 
 <a name="副词表"></a>
 ##### 副词表
