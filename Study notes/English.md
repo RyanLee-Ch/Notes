@@ -164,6 +164,7 @@
 |fiction|小说|ˈfɪkʃn|/|
 |inspiration|灵感|ˌɪnspəˈreɪʃn|/|
 |source|来源|sɔːrs|/|
+|Supersonic|超音速|ˌsuːpərˈsɑːnɪk|/|
 
 <a name="形容词表"></a>
 ##### 形容词表
