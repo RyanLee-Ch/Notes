@@ -156,7 +156,7 @@
 ##### 名词表
 |英文A|中文A|音标A|英文B|中文B|音标B|英文C|中文C|音标C|
 |:-----:|:----:|:------:|:----:|:----:|:------:|:----:|:----:|:------:|
-|concept|概念|ˈkɑːnsept|quantum|量子|ˈkwɑːntəm|EADS|航空航天|/|
+|concept|概念|ˈkɑːnsept|quantum|量子|ˈkwɑːntəm|aerospace/EADS|航空航天|ˈeroʊspeɪs|
 
 <a name="形容词表"></a>
 ##### 形容词表
