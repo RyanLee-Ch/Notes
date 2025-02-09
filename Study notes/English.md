@@ -164,6 +164,7 @@
 |:-----:|:----:|:----:|:------:|
 |fascinating|ˈfæsɪneɪtɪŋ|迷人的|fascinating technical developments|
 |renewable|rɪˈnuːəbl|可再生的|renewable source|
+|fantastic|fænˈtæstɪk|超棒的|That's fantastic|
 
 <a name="副词表"></a>
 ##### 副词表
