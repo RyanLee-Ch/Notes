@@ -177,7 +177,7 @@
 <a name="动词表"></a>
 |英文|中文|音标|例句|
 |:-----:|:----:|:------:|:----:|
-|source|来源|sɔːrs|/|
+|explore|探索|ɪkˈsplɔːr|They plan to explore the Amazon rainforest next summer|
 
 <a name="副词表"></a>
 ##### 副词表
