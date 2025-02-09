@@ -129,7 +129,7 @@
 |separator|分离机|live wire|火线|neutral wire|零线, 中性线|earth wire|地线|cooler|冷却器|fluid|流体|
 |carbon|碳.C|production|生产|feature|功能|blueprint|蓝图|reaction|反应|raw materials|原材料|
 |manufacturing|制造业|lungs|肺|Adam's apple|喉结|risk|风险|cost|费用|hourly rate|每小时租金|
-|battery|电池|fence|围栏|
+|battery|电池|fence|围栏|energy|能源/能量|
 <a name="速记语感表"><a/>
 #### 语感速记表
 ##### 形容语感速记
