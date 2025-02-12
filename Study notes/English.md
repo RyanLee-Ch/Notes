@@ -174,6 +174,7 @@
 |renewable|rɪˈnuːəbl|可再生的|renewable source|
 |fantastic|fænˈtæstɪk|超棒的|That's fantastic|
 |recent|ˈriːsnt|最近的|recent earthquake|
+|suitable|ˈsuːtəbl|合适的/适合的|suitable for the wedding|
 
 
 <a name="动词表"></a>
