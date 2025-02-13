@@ -184,13 +184,12 @@
 |fantastic|fænˈtæstɪk|超棒的|That's fantastic|
 |recent|ˈriːsnt|最近的|recent earthquake|
 |suitable|ˈsuːtəbl|合适的/适合的|suitable for the wedding|
-|particular|pərˈtɪkjələr|特定的|particular industries|
+|particular|pərˈtɪkjələr|特定的/特别的|particular industries|
 |potential|pəˈtenʃl|潜在的|potential customers|
 |specific|spəˈsɪfɪk|具体的|specific issue|
 |impactful|/|有效的|impactful project|
 |crucial|ˈkruːʃl|关键的/至关重要的|crucial area|
 |real-world|ˈriːəl wɜːrld|真实的|real-world feedback|
-|particular|pərˈtɪkjələr|特别的|particular challenges|
 
 
 <a name="副词表"></a>
