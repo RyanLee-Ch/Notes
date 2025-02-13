@@ -6,6 +6,7 @@
   - [3.2：形容词表](#形容词表)
   - [3.3：副词表](#副词表)
   - [3.4：动词表](#动词表)
+  - [3.5：口水词表](#口水词表)
 - [第三：日常表达语感](#语感)
 - [第四：口语替换词](#口语替换词)
 
@@ -182,6 +183,12 @@
 |specific|spəˈsɪfɪk|具体的|specific issue|
 
 
+<a name="副词表"></a>
+##### 副词表
+|单词A|音标A|中文A|示例A|
+|:-----:|:----:|:----:|:------:|
+|particularly|pərˈtɪkjələrli|尤其是|
+
 <a name="动词表"></a>
 ##### 动词表
 |英文|中文|音标|例句|
@@ -189,11 +196,13 @@
 |explore|探索|ɪkˈsplɔːr|They plan to explore the Amazon rainforest next summer|
 |stride toward|大步走向/迈向|straɪd təˈwɒrd|strides toward commercial|
 
-<a name="副词表"></a>
-##### 副词表
-|单词A|音标A|中文A|示例A|
-|:-----:|:----:|:----:|:------:|
-|particularly|pərˈtɪkjələrli|尤其是|
+<a name="口水词表"></a>
+##### 口水词表
+|中文|英文|补充|例句1|例句2|
+|:--:|:-:|:--:|:---:|:---:|
+|我曾经/我以前|I've|后+动词过去式|I've worked at Celitron|/|
+|位于|based in|/|Based in Guangzhou|/|
+
 
 <a name="语感"></a>
 ### 习惯句语法语感
