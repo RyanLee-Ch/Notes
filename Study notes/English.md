@@ -189,6 +189,7 @@
 |impactful|/|有效的|impactful project|
 |crucial|ˈkruːʃl|关键的/至关重要的|crucial area|
 |real-world|ˈriːəl wɜːrld|真实的|real-world feedback|
+|particular|pərˈtɪkjələr|特别的|particular challenges|
 
 
 <a name="副词表"></a>
@@ -206,6 +207,7 @@
 |stride toward|大步走向/迈向|straɪd təˈwɒrd|strides toward commercial|
 |work on|(工作性质的)做|wɜːrk ɒn|work on my project|
 |refine|完善|rɪˈfaɪn|refining your designs|
+|encounter|遭遇|ɪnˈkaʊntər|encounter any particular challenges|
 
 <a name="口水词表"></a>
 ##### 口水词表
