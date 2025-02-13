@@ -166,6 +166,7 @@
 |source|来源|sɔːrs|/|
 |Supersonic|超音速|ˌsuːpərˈsɑːnɪk|/|
 |opportunity|机会|ˌɑːpərˈtuːnəti|
+|direction|方向|dəˈrekʃn|
 
 <a name="形容词表"></a>
 ##### 形容词表
