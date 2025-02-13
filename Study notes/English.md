@@ -173,6 +173,7 @@
 |sustainability|可持续性|səˌsteɪnəˈbɪlɪti|
 |implementation|实施|ˌɪmpləmɛnˈteɪʃən|
 |aspect|方面|ˈæspekt|
+|phase|阶段|feɪz|
 
 <a name="形容词表"></a>
 ##### 形容词表
