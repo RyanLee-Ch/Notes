@@ -197,6 +197,7 @@
 |:-----:|:----:|:------:|:----:|
 |explore|探索|ɪkˈsplɔːr|They plan to explore the Amazon rainforest next summer|
 |stride toward|大步走向/迈向|straɪd təˈwɒrd|strides toward commercial|
+|work on|(工作性质的)做|wɜːrk ɒn|work on my project|
 
 <a name="口水词表"></a>
 ##### 口水词表
