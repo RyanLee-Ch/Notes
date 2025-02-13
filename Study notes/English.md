@@ -169,6 +169,7 @@
 |opportunity|机会|ˌɑːpərˈtuːnəti|
 |direction|方向|dəˈrekʃn|
 |branch|分支、分公司|bræntʃ|
+|goal|目标|ɡoʊl|
 
 <a name="形容词表"></a>
 ##### 形容词表
