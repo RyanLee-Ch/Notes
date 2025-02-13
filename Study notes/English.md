@@ -183,6 +183,7 @@
 |particular|pərˈtɪkjələr|特定的|particular industries|
 |potential|pəˈtenʃl|潜在的|potential customers|
 |specific|spəˈsɪfɪk|具体的|specific issue|
+|impactful|/|impactful project|
 
 
 <a name="副词表"></a>
