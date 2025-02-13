@@ -176,6 +176,7 @@
 |fantastic|fænˈtæstɪk|超棒的|That's fantastic|
 |recent|ˈriːsnt|最近的|recent earthquake|
 |suitable|ˈsuːtəbl|合适的/适合的|suitable for the wedding|
+|particular|pərˈtɪkjələr|特定的|particular industries|
 
 
 <a name="动词表"></a>
