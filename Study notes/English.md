@@ -188,6 +188,7 @@
 |specific|spəˈsɪfɪk|具体的|specific issue|
 |impactful|/|有效的|impactful project|
 |crucial|ˈkruːʃl|关键的/至关重要的|crucial area|
+|real-world|ˈriːəl wɜːrld|真实的|real-world feedback|
 
 
 <a name="副词表"></a>
