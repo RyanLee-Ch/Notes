@@ -292,6 +292,7 @@
 |强连接词|中文表达|基本表达|强连接词|连接目标|
 |------|-------|------|------|------|
 |will be|最终交付将会是3D与2D文件|The final deliverables|will be|3D and 2D files|
+|combination of|它是由一台粉碎机和灭菌器组成的|It's a|combination of|a shredder and a sterilizer|
 
 ### 口语替换词
 |替换词|常用基础词|示例|说明|
