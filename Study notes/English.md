@@ -179,6 +179,7 @@
 |suitable|ˈsuːtəbl|合适的/适合的|suitable for the wedding|
 |particular|pərˈtɪkjələr|特定的|particular industries|
 |potential|pəˈtenʃl|潜在的|potential customers|
+|specific|spəˈsɪfɪk|具体的|specific issue|
 
 
 <a name="动词表"></a>
