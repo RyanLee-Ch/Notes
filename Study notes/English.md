@@ -178,6 +178,7 @@
 |recent|ˈriːsnt|最近的|recent earthquake|
 |suitable|ˈsuːtəbl|合适的/适合的|suitable for the wedding|
 |particular|pərˈtɪkjələr|特定的|particular industries|
+|potential|pəˈtenʃl|潜在的|potential customers|
 
 
 <a name="动词表"></a>
