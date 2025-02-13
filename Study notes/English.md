@@ -171,6 +171,7 @@
 |branch|分支、分公司|bræntʃ|
 |goal|目标|ɡoʊl|
 |sustainability|可持续性|səˌsteɪnəˈbɪlɪti|
+|implementation|实施|ˌɪmpləmɛnˈteɪʃən|
 
 <a name="形容词表"></a>
 ##### 形容词表
