@@ -191,6 +191,7 @@
 |单词A|音标A|中文A|示例A|
 |:-----:|:----:|:----:|:------:|
 |particularly|pərˈtɪkjələrli|尤其是|
+|definitely|ˈdefɪnətli|肯定|
 
 <a name="动词表"></a>
 ##### 动词表
