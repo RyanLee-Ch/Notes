@@ -220,6 +220,7 @@
 |involve|涉及|ɪnˈvɑːlv|involves a lot of research and analysis|
 |approach|处理|əˈproʊtʃ|How did you approach it|
 |ensure|确保|ɪnˈʃʊr|ensuring proper sterilization|
+|handle|处理|ˈhændl|handling medical waste|
 
 <a name="口水词表"></a>
 ##### 口水词表
