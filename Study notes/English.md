@@ -190,6 +190,7 @@
 |impactful|/|有效的|impactful project|
 |crucial|ˈkruːʃl|关键的/至关重要的|crucial area|
 |real-world|ˈriːəl wɜːrld|真实的|real-world feedback|
+|unsure|ˌʌnˈʃʊr|不确定的|unsure about the details|
 
 
 <a name="副词表"></a>
