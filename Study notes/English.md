@@ -210,6 +210,7 @@
 |refine|完善|rɪˈfaɪn|refining your designs|
 |encounter|遭遇|ɪnˈkaʊntər|encounter any particular challenges|
 |consider|考虑|kənˈsɪdər|consider your proposal|
+|involve|涉及|ɪnˈvɑːlv|involves a lot of research and analysis|
 
 <a name="口水词表"></a>
 ##### 口水词表
