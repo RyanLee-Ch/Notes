@@ -221,6 +221,8 @@
 |approach|处理|əˈproʊtʃ|How did you approach it|
 |ensure|确保|ɪnˈʃʊr|ensuring proper sterilization|
 |handle|处理|ˈhændl|handling medical waste|
+|able to|能够|ˈeɪbl tu|able to dive into such specific technical details|
+|dive into|深入|daɪv ˈɪntə|able to dive into such specific technical detai|
 
 <a name="口水词表"></a>
 ##### 口水词表
