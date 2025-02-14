@@ -177,6 +177,7 @@
 |curve|曲线|kɜːrv|
 |parameter|参数|pəˈræmɪtər|
 |principle|原则|ˈprɪnsəpl|
+|consideration|考虑|kənˌsɪdəˈreɪʃn|
 
 <a name="形容词表"></a>
 ##### 形容词表
@@ -197,6 +198,7 @@
 |steep|stiːp|陡峭的|steep learning curve|
 |valuable|ˈvæljuəbl|有价值的|valuable information|
 |proper|ˈprɑːpər|符合规范的|ensuring proper sterilization|
+|unique|juˈniːk|独特的|unique considerations|
 
 
 <a name="副词表"></a>
