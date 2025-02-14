@@ -176,6 +176,7 @@
 |phase|阶段|feɪz|
 |curve|曲线|kɜːrv|
 |parameter|参数|pəˈræmɪtər|
+|principle|原则|ˈprɪnsəpl|
 
 <a name="形容词表"></a>
 ##### 形容词表
@@ -223,6 +224,7 @@
 |handle|处理|ˈhændl|handling medical waste|
 |able to|能够|ˈeɪbl tu|able to dive into such specific technical details|
 |dive into|深入|daɪv ˈɪntə|able to dive into such specific technical detai|
+|apply|应用|əˈplaɪ|apply these principles|
 
 <a name="口水词表"></a>
 ##### 口水词表
