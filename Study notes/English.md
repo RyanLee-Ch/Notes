@@ -193,6 +193,7 @@
 |real-world|ˈriːəl wɜːrld|真实的|real-world feedback|
 |unsure|ˌʌnˈʃʊr|不确定的|unsure about the details|
 |steep|stiːp|陡峭的|steep learning curve|
+|valuable|ˈvæljuəbl|有价值的|valuable information|
 
 
 <a name="副词表"></a>
