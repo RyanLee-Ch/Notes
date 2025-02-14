@@ -209,6 +209,7 @@
 |work on|(工作性质的)做|wɜːrk ɒn|work on my project|
 |refine|完善|rɪˈfaɪn|refining your designs|
 |encounter|遭遇|ɪnˈkaʊntər|encounter any particular challenges|
+|consider|考虑|kənˈsɪdər|consider your proposal|
 
 <a name="口水词表"></a>
 ##### 口水词表
