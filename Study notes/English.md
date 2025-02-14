@@ -195,6 +195,7 @@
 |unsure|ˌʌnˈʃʊr|不确定的|unsure about the details|
 |steep|stiːp|陡峭的|steep learning curve|
 |valuable|ˈvæljuəbl|有价值的|valuable information|
+|proper|ˈprɑːpər|符合规范的|ensuring proper sterilization|
 
 
 <a name="副词表"></a>
@@ -218,6 +219,7 @@
 |consider|考虑|kənˈsɪdər|consider your proposal|
 |involve|涉及|ɪnˈvɑːlv|involves a lot of research and analysis|
 |approach|处理|əˈproʊtʃ|How did you approach it|
+|ensure|确保|ɪnˈʃʊr|ensuring proper sterilization|
 
 <a name="口水词表"></a>
 ##### 口水词表
