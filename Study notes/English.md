@@ -174,6 +174,7 @@
 |implementation|实施|ˌɪmpləmɛnˈteɪʃən|
 |aspect|方面|ˈæspekt|
 |phase|阶段|feɪz|
+|curve|曲线|kɜːrv|
 
 <a name="形容词表"></a>
 ##### 形容词表
@@ -191,6 +192,7 @@
 |crucial|ˈkruːʃl|关键的/至关重要的|crucial area|
 |real-world|ˈriːəl wɜːrld|真实的|real-world feedback|
 |unsure|ˌʌnˈʃʊr|不确定的|unsure about the details|
+|steep|stiːp|陡峭的|steep learning curve|
 
 
 <a name="副词表"></a>
