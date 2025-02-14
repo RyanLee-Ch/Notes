@@ -200,6 +200,7 @@
 |particularly|pərˈtɪkjələrli|尤其是|
 |definitely|ˈdefɪnətli|肯定|
 |especially|ɪˈspeʃəli|特别|
+|initially|ɪˈnɪʃəli|一开始/最初|
 
 <a name="动词表"></a>
 ##### 动词表
